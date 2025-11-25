@@ -1,5 +1,4 @@
-instagrapi==1.16.22
-colorama==0.4.6
+flask==2.3.3
 requests==2.31.0
-python-dotenv==1.0.0
+colorama==0.4.6
 Pillow==9.5.0
