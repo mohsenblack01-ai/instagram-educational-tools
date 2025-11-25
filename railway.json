@@ -1,0 +1,9 @@
+{
+  "build": {
+    "builder": "NIXPACKS"
+  },
+  "deploy": {
+    "startCommand": "python instagram_manager.py",
+    "restartPolicyType": "ON_FAILURE"
+  }
+}
